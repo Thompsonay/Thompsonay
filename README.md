@@ -34,7 +34,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/me) ← replace this
+- 💼 [LinkedIn](https://www.linkedin.com/in/iperepolu-ayomide-86908b246/)
 - 🌐 Portfolio — coming soon
 - 📧 Available for remote backend roles (graduating soon!)
 
